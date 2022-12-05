@@ -1,0 +1,5 @@
+hosts:
+  - localhost
+  - example.com
+  - google.com
+  - norealdomainisnamedthis.com
